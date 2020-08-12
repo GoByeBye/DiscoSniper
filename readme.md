@@ -1,3 +1,4 @@
+[![GitHub stars](https://img.shields.io/github/stars/GoByeBye/DiscoToken?style=for-the-badge)](https://github.com/GoByeBye/DiscoToken/stargazers) ![GitHub license](https://img.shields.io/github/license/GoByeBye/DiscoToken?style=for-the-badge) ![](https://img.shields.io/badge/PYTHON-3.X-blueviolet?style=for-the-badge)
 # DiscoSniper
 
 DiscoSniper is an open-source Discord Nitro auto claimer made in python. It sure as hell is not the fastest sniper out there but it gets the job done in a timely and stable manner.
