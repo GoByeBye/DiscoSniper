@@ -1,6 +1,6 @@
 # DiscoSniper
 
-DiscoSniper is an opensource Discord Nitro auto claimer made in python. It sure as hell is not the fastest sniper out there but it gets the job done in a timely and stable manner.
+DiscoSniper is an open-source Discord Nitro auto claimer made in python. It sure as hell is not the fastest sniper out there but it gets the job done in a timely and stable manner.
 It also supports hosting on heroku for 24/7 sniping without your PC
 
 ## Preview
@@ -10,6 +10,7 @@ You can expect speeds around 0.15-0.25 using your home wifi
 
 Skipping of fake codes
 ![](https://i.imgur.com/oKjGlbj.gif)
+Once again this is using VPN speeds on a normal computer will be faster
 
 ## Installation
 
@@ -48,5 +49,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## DISCLAIMER
-I am not responsible for your actions using this script. It's made purely for educational and demostration purposes.
+I am not responsible for your actions using this script. It's made purely for educational and demonstration purposes.
 Btw running this on multiple computers at once or claiming nitro rapidly can get your account disabled use with caution
