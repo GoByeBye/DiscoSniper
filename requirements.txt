@@ -1,0 +1,6 @@
+colorama
+discord.py
+asyncio
+re
+requests
+datetime
