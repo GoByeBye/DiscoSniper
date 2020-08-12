@@ -43,6 +43,10 @@ Assuming you have your token already put in sniper.py
 python sniper.py
 ```
 
+## Support
+If you're in need of support join this
+<iframe src="https://discordapp.com/widget?id=743205482507927568&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
