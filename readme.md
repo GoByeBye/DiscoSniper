@@ -45,6 +45,7 @@ python sniper.py
 
 ## Support
 If you're in need of support join this
+
 <a href="https://discord.gg/Y3qv6Jy"><img src="https://discord.com/api/guilds/743205482507927568/widget.png?style=banner2" alt="" /></a>
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
