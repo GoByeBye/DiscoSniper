@@ -45,8 +45,7 @@ python sniper.py
 
 ## Support
 If you're in need of support join this
-<iframe src="https://discordapp.com/widget?id=743205482507927568&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
+<a href="https://discord.gg/Y3qv6Jy"><img src="https://discord.com/api/guilds/743205482507927568/widget.png?style=banner2" alt="" /></a>
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
