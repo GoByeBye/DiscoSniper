@@ -51,4 +51,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## DISCLAIMER
 I am not responsible for your actions using this script. It's made purely for educational and demonstration purposes.
+I do not promote the usage of my tools nor do I take responsibility for any bad usage (aka use at your own risk)
 Btw running this on multiple computers at once or claiming nitro rapidly can get your account disabled use with caution
