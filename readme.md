@@ -35,7 +35,13 @@ python sniper.py
 ```
 Then add your token in sniper.py under the token variable
 
+## Repl.it
+[![Run on Repl.it](https://repl.it/badge/github/GoByeBye/DiscoSniper)](https://repl.it/github/GoByeBye/DiscoSniper)
 
+Go to sniper.py add your token under
+```py
+token = "ur_token_here"```
+then click run and rest will do itself
 
 ## Usage
 Assuming you have your token already put in sniper.py
