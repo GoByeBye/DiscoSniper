@@ -9,7 +9,7 @@ import re
 # NOTE: I will be working on adding multiple token support but I made this script in like 5 minutes so it's not going to be anything fancy
 # this script is purely a PoC
 
-__version__ = "1.2"
+__version__ = "1.2.5"
 __author = "Daddie0 || https://daddie.xyz"
 
 # Uncomment the line below if you are wanting to host this on heroku and are using an environment variable to store the token.
