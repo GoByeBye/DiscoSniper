@@ -5,13 +5,18 @@ DiscoSniper is an open-source Discord Nitro auto claimer made in python. It sure
 It also supports hosting on heroku for 24/7 sniping without your PC
 
 ## Preview
-Note this was taken while using a VPN (PIA)
-![](https://i.imgur.com/YWq9KZh.gif)
-You can expect speeds around 0.15-0.25 using your home wifi
+Setup wizard
+![](https://i.imgur.com/od3MvaG.gif)
+
 
 Skipping of fake codes
 ![](https://i.imgur.com/oKjGlbj.gif)
-Once again this is using VPN speeds on a normal computer will be faster
+You can expect speeds around 0.15-0.25 using your home wifi
+
+New UI in 2.0
+![](https://i.imgur.com/F9n3erf.gif)
+Note: this was taken on an unstable slow wifi with VPN (PIA)
+
 
 ## Installation
 
@@ -21,8 +26,9 @@ Once again this is using VPN speeds on a normal computer will be faster
 git clone https://github.com/GoByeBye/DiscoSniper
 cd DiscoSniper
 pip install -r requirements.txt
+python sniper.py
 ```
-Then add your token in sniper.py under the token variable
+Then Then follow the setup instructions from the setup wizard
 
 ### Windows
 
@@ -33,18 +39,14 @@ cd DiscoSniper
 pip install -r requirements.txt
 python sniper.py
 ```
-Then add your token in sniper.py under the token variable
-
+Then follow the setup instructions from the setup wizard
 ## Repl.it
 [![Run on Repl.it](https://repl.it/badge/github/GoByeBye/DiscoSniper)](https://repl.it/github/GoByeBye/DiscoSniper)
 
-Go to sniper.py add your token under
-```py
-token = "ur_token_here"```
-then click run and rest will do itself
+Follow the setup instructions from the setup wizard
 
 ## Usage
-Assuming you have your token already put in sniper.py
+This will start the setup wizard if you don't have it already setup
 ```bash
 python sniper.py
 ```
